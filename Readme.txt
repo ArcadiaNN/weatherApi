@@ -1,0 +1,1 @@
+Şehir bilgisini girdikten sonra enter tuşuna basınız.
